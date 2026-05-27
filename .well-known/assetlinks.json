@@ -5,8 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.moodfilm.app",
       "sha256_cert_fingerprints": [
-        "PLACEHOLDER_GOOGLE_APP_SIGNING_KEY",
-        "PLACEHOLDER_UPLOAD_KEY"
+        "PASTE_GOOGLE_APP_SIGNING_KEY_HERE",
+        "E3:F4:E0:6E:6C:10:48:7E:DC:30:30:5B:92:4B:F3:74:2A:9B:59:A7:C7:F8:BA:10:5B:D2:EB:BD:D8:97:BE:B0"
       ]
     }
   }
